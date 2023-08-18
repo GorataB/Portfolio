@@ -9,7 +9,7 @@ Instructor @ The Carpentries
 BA, Economics, Columbia University, Feb 2022
 
 ### Certifications
-Udacity Data Analyst Nanodegree, Dec 2022
+Data Analyst Nanodegree, [Udacity](https://graduation.udacity.com/confirm/W2PLPQRE), Dec 2022
 
 ### Projects
 #### Netflix Data Cleaning, National Student Data Corp (NSDC) project, Jun 2023
